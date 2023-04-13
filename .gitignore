@@ -1,0 +1,6 @@
+# Maven
+target/
+
+# VS Code
+.vscode/
+.code-workspace
